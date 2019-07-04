@@ -1,6 +1,7 @@
 # xtx-bot
 
-## To do
+#### To do
+
 1. Deep NN regression
 2. Deep NN onehot classification version
 3. Regularisation
